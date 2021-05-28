@@ -1,0 +1,522 @@
+[
+  [
+    {
+      "block": 1,
+      "ladder": null,
+      "snake": null
+    },
+    {
+      "block": 2,
+      "ladder": 10,
+      "snake": null
+    },
+    {
+      "block": 3,
+      "ladder": null,
+      "snake": null
+    },
+    {
+      "block": 4,
+      "ladder": null,
+      "snake": null
+    },
+    {
+      "block": 5,
+      "ladder": null,
+      "snake": null
+    },
+    {
+      "block": 6,
+      "ladder": null,
+      "snake": null
+    },
+    {
+      "block": 7,
+      "ladder": null,
+      "snake": null
+    },
+    {
+      "block": 8,
+      "ladder": null,
+      "snake": null
+    },
+    {
+      "block": 9,
+      "ladder": null,
+      "snake": null
+    },
+    {
+      "block": 10,
+      "ladder": null,
+      "snake": null
+    }
+  ],
+  [
+    {
+      "block": 20,
+      "ladder": null,
+      "snake": null
+    },
+    {
+      "block": 19,
+      "ladder": null,
+      "snake": null
+    },
+    {
+      "block": 18,
+      "ladder": null,
+      "snake": null
+    },
+    {
+      "block": 17,
+      "ladder": null,
+      "snake": null
+    },
+    {
+      "block": 16,
+      "ladder": null,
+      "snake": null
+    },
+    {
+      "block": 15,
+      "ladder": null,
+      "snake": 6
+    },
+    {
+      "block": 14,
+      "ladder": null,
+      "snake": null
+    },
+    {
+      "block": 13,
+      "ladder": null,
+      "snake": null
+    },
+    {
+      "block": 12,
+      "ladder": null,
+      "snake": null
+    },
+    {
+      "block": 11,
+      "ladder": null,
+      "snake": null
+    }
+  ],
+  [
+    {
+      "block": 21,
+      "ladder": null,
+      "snake": null
+    },
+    {
+      "block": 22,
+      "ladder": null,
+      "snake": null
+    },
+    {
+      "block": 23,
+      "ladder": null,
+      "snake": null
+    },
+    {
+      "block": 24,
+      "ladder": null,
+      "snake": null
+    },
+    {
+      "block": 25,
+      "ladder": null,
+      "snake": null
+    },
+    {
+      "block": 26,
+      "ladder": null,
+      "snake": null
+    },
+    {
+      "block": 27,
+      "ladder": null,
+      "snake": null
+    },
+    {
+      "block": 28,
+      "ladder": null,
+      "snake": null
+    },
+    {
+      "block": 29,
+      "ladder": null,
+      "snake": null
+    },
+    {
+      "block": 30,
+      "ladder": null,
+      "snake": null
+    }
+  ],
+  [
+    {
+      "block": 40,
+      "ladder": null,
+      "snake": null
+    },
+    {
+      "block": 39,
+      "ladder": null,
+      "snake": null
+    },
+    {
+      "block": 38,
+      "ladder": null,
+      "snake": null
+    },
+    {
+      "block": 37,
+      "ladder": null,
+      "snake": null
+    },
+    {
+      "block": 36,
+      "ladder": null,
+      "snake": null
+    },
+    {
+      "block": 35,
+      "ladder": null,
+      "snake": null
+    },
+    {
+      "block": 34,
+      "ladder": null,
+      "snake": null
+    },
+    {
+      "block": 33,
+      "ladder": null,
+      "snake": null
+    },
+    {
+      "block": 32,
+      "ladder": null,
+      "snake": null
+    },
+    {
+      "block": 31,
+      "ladder": null,
+      "snake": 5
+    }
+  ],
+  [
+    {
+      "block": 41,
+      "ladder": null,
+      "snake": null
+    },
+    {
+      "block": 42,
+      "ladder": null,
+      "snake": null
+    },
+    {
+      "block": 43,
+      "ladder": null,
+      "snake": null
+    },
+    {
+      "block": 44,
+      "ladder": 75,
+      "snake": null
+    },
+    {
+      "block": 45,
+      "ladder": null,
+      "snake": null
+    },
+    {
+      "block": 46,
+      "ladder": null,
+      "snake": null
+    },
+    {
+      "block": 47,
+      "ladder": null,
+      "snake": null
+    },
+    {
+      "block": 48,
+      "ladder": null,
+      "snake": null
+    },
+    {
+      "block": 49,
+      "ladder": null,
+      "snake": null
+    },
+    {
+      "block": 50,
+      "ladder": null,
+      "snake": null
+    }
+  ],
+  [
+    {
+      "block": 60,
+      "ladder": null,
+      "snake": null
+    },
+    {
+      "block": 59,
+      "ladder": null,
+      "snake": null
+    },
+    {
+      "block": 58,
+      "ladder": null,
+      "snake": 20
+    },
+    {
+      "block": 57,
+      "ladder": null,
+      "snake": null
+    },
+    {
+      "block": 56,
+      "ladder": null,
+      "snake": null
+    },
+    {
+      "block": 55,
+      "ladder": null,
+      "snake": null
+    },
+    {
+      "block": 54,
+      "ladder": null,
+      "snake": null
+    },
+    {
+      "block": 53,
+      "ladder": null,
+      "snake": null
+    },
+    {
+      "block": 52,
+      "ladder": null,
+      "snake": null
+    },
+    {
+      "block": 51,
+      "ladder": null,
+      "snake": null
+    }
+  ],
+  [
+    {
+      "block": 61,
+      "ladder": null,
+      "snake": null
+    },
+    {
+      "block": 62,
+      "ladder": null,
+      "snake": null
+    },
+    {
+      "block": 63,
+      "ladder": null,
+      "snake": null
+    },
+    {
+      "block": 64,
+      "ladder": null,
+      "snake": null
+    },
+    {
+      "block": 65,
+      "ladder": null,
+      "snake": null
+    },
+    {
+      "block": 66,
+      "ladder": null,
+      "snake": 42
+    },
+    {
+      "block": 67,
+      "ladder": null,
+      "snake": null
+    },
+    {
+      "block": 68,
+      "ladder": null,
+      "snake": null
+    },
+    {
+      "block": 69,
+      "ladder": null,
+      "snake": null
+    },
+    {
+      "block": 70,
+      "ladder": 96,
+      "snake": null
+    }
+  ],
+  [
+    {
+      "block": 80,
+      "ladder": null,
+      "snake": null
+    },
+    {
+      "block": 79,
+      "ladder": null,
+      "snake": null
+    },
+    {
+      "block": 78,
+      "ladder": null,
+      "snake": null
+    },
+    {
+      "block": 77,
+      "ladder": null,
+      "snake": null
+    },
+    {
+      "block": 76,
+      "ladder": null,
+      "snake": null
+    },
+    {
+      "block": 75,
+      "ladder": null,
+      "snake": null
+    },
+    {
+      "block": 74,
+      "ladder": null,
+      "snake": null
+    },
+    {
+      "block": 73,
+      "ladder": null,
+      "snake": null
+    },
+    {
+      "block": 72,
+      "ladder": null,
+      "snake": null
+    },
+    {
+      "block": 71,
+      "ladder": null,
+      "snake": null
+    }
+  ],
+  [
+    {
+      "block": 81,
+      "ladder": null,
+      "snake": 78
+    },
+    {
+      "block": 82,
+      "ladder": null,
+      "snake": null
+    },
+    {
+      "block": 83,
+      "ladder": null,
+      "snake": null
+    },
+    {
+      "block": 84,
+      "ladder": null,
+      "snake": null
+    },
+    {
+      "block": 85,
+      "ladder": null,
+      "snake": null
+    },
+    {
+      "block": 86,
+      "ladder": null,
+      "snake": null
+    },
+    {
+      "block": 87,
+      "ladder": null,
+      "snake": null
+    },
+    {
+      "block": 88,
+      "ladder": null,
+      "snake": null
+    },
+    {
+      "block": 89,
+      "ladder": null,
+      "snake": null
+    },
+    {
+      "block": 90,
+      "ladder": null,
+      "snake": null
+    }
+  ],
+  [
+    {
+      "block": 100,
+      "ladder": null,
+      "snake": null
+    },
+    {
+      "block": 99,
+      "ladder": null,
+      "snake": null
+    },
+    {
+      "block": 98,
+      "ladder": null,
+      "snake": null
+    },
+    {
+      "block": 97,
+      "ladder": null,
+      "snake": null
+    },
+    {
+      "block": 96,
+      "ladder": null,
+      "snake": null
+    },
+    {
+      "block": 95,
+      "ladder": null,
+      "snake": null
+    },
+    {
+      "block": 94,
+      "ladder": null,
+      "snake": null
+    },
+    {
+      "block": 93,
+      "ladder": null,
+      "snake": null
+    },
+    {
+      "block": 92,
+      "ladder": null,
+      "snake": 34
+    },
+    {
+      "block": 91,
+      "ladder": null,
+      "snake": null
+    }
+  ]
+]
