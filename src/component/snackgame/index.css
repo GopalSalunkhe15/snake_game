@@ -1,0 +1,211 @@
+body {
+  margin: 0px;
+  padding: 0px;
+  background-image: url("../../background.jpg");
+  background-position-x: right;
+  background-position-y: -400px;
+}
+.playerOne {
+  position: absolute;
+  top: 130px;
+  left: 570px;
+  border: 1px dotted;
+  width: 218px;
+  height: 170px;
+}
+
+.playerTwo {
+  position: absolute;
+  top: 314px;
+  left: 571px;
+  border: 1px dotted;
+  width: 218px;
+  height: 170px;
+}
+
+.dice-1 {
+  border: 1px solid;
+  width: 72px;
+  height: 55px;
+  position: relative;
+  left: 72px;
+  top: 10px;
+}
+.dice-2 {
+  border: 1px solid;
+  width: 72px;
+  height: 55px;
+  position: relative;
+  left: 72px;
+  top: 10px;
+}
+
+.row1 {
+  position: absolute;
+  margin-top: 543px;
+}
+.row2 {
+  position: absolute;
+  margin-top: 486px;
+}
+.row3 {
+  position: absolute;
+  margin-top: 429px;
+}
+.row4 {
+  position: absolute;
+  margin-top: 372px;
+}
+.row5 {
+  position: absolute;
+  margin-top: 315px;
+}
+.row6 {
+  position: absolute;
+  margin-top: 258px;
+}
+.row7 {
+  position: absolute;
+  margin-top: 201px;
+}
+.row8 {
+  position: absolute;
+  margin-top: 143px;
+}
+.row9 {
+  position: absolute;
+  margin-top: 85px;
+}
+.row10 {
+  position: absolute;
+  margin-top: 27px;
+}
+.block-1 {
+  display: inline-block;
+  height: 55px;
+  width: 55px;
+  background-color: #bef0a1;
+}
+.block-2 {
+  display: inline-block;
+  height: 55px;
+  width: 55px;
+  background-color: #ebfae2;
+}
+.block-3 {
+  display: inline-block;
+
+  height: 55px;
+  width: 55px;
+  background-color: #bef0a1;
+}
+.block-4 {
+  display: inline-block;
+  height: 55px;
+  width: 55px;
+  background-color: #ebfae2;
+}
+.block-5 {
+  display: inline-block;
+  height: 55px;
+  width: 55px;
+  background-color: #bef0a1;
+}
+.block-6 {
+  display: inline-block;
+  height: 55px;
+  width: 55px;
+  background-color: #ebfae2;
+}
+.block-7 {
+  display: inline-block;
+  height: 55px;
+  width: 55px;
+  background-color: #bef0a1;
+}
+.block-8 {
+  display: inline-block;
+  height: 55px;
+  width: 55px;
+  background-color: #ebfae2;
+}
+.block-9 {
+  display: inline-block;
+  height: 55px;
+  width: 55px;
+  background-color: #bef0a1;
+}
+.block-10 {
+  display: inline-block;
+
+  height: 55px;
+  width: 55px;
+  background-color: #ebfae2;
+}
+
+.playerOneDice {
+  width: 42px;
+  height: 30px;
+  width: 72px;
+  height: 55px;
+  position: absolute;
+  left: 0px;
+  font-size: 44px;
+}
+.playerTwoDice {
+  width: 42px;
+  height: 30px;
+  width: 72px;
+  height: 55px;
+  position: absolute;
+  left: 0px;
+  font-size: 44px;
+}
+.ladder-to {
+  color: #417e00;
+}
+.snake-to {
+  color: #ff1212;
+}
+.playerOneCoin {
+  border: 1px solid;
+  border-radius: 50%;
+  background: #ff1212;
+  position: absolute;
+  top: 22px;
+}
+.playerTwoCoin {
+  border: 1px solid;
+  position: absolute;
+  border-radius: 50%;
+  background: rgb(0, 60, 255);
+}
+.restart-game-button {
+  width: 100px;
+  height: 31px;
+  position: absolute;
+  right: 500px;
+  border-radius: 14px;
+  background-image: linear-gradient(to bottom right, #3fff00, #e0619c);
+}
+.playerWinCount {
+  position: relative;
+  top: 38px;
+}
+
+.new-game-button {
+  position: absolute;
+  left: 567px;
+  width: 100px;
+  height: 31px;
+  border-radius: 14px;
+  background-image: linear-gradient(to bottom right, #3fff00, #e0619c);
+}
+.turnament-button {
+  position: absolute;
+  right: 367px;
+  width: 100px;
+  height: 31px;
+  border-radius: 14px;
+  background-image: linear-gradient(to bottom right, #3fff00, #e0619c);
+}
